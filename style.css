@@ -65,3 +65,14 @@ padding: 10%;
     background-color: rgb(214, 159, 92);
     padding:40px %;
 }
+.photography{
+    text-align: center;
+    font-size: x-large;
+    background-color: bisque;
+    padding: 10px;
+
+}
+
+.paragraph{
+    font-size: larger;
+}
