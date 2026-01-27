@@ -1,8 +1,8 @@
-# Pixio Photography Website 📸
+# Pixio Photography Website 
 
 Pixio is a modern photography website designed to showcase timeless moments through powerful visuals and elegant storytelling. The site highlights portrait, wedding, and lifestyle photography with a clean and responsive design.
 
-## 🌟 Features
+##  Features
 
 - Responsive design (works on desktop, tablet, and mobile)
 - Elegant landing page with emotional photography quotes
@@ -10,12 +10,11 @@ Pixio is a modern photography website designed to showcase timeless moments thro
 - Clean and simple UI for better user experience
 - Easy to customize and extend
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS
 - Git & GitHub for version control
 
-## 📂 Project Structure
 
 # Pixio
