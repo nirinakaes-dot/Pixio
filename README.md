@@ -8,13 +8,21 @@ Pixio is a modern photography website designed to showcase timeless moments thro
 - Elegant landing page with emotional photography quotes
 - Gallery section to showcase photography work
 - Clean and simple UI for better user experience
-- Easy to customize and extend
 
 ##  Technologies Used
 
 - HTML
 - CSS
 - Git & GitHub for version control
+
+ ## License
+
+This project is open-source and available under the MIT License.
+
+## Author
+
+Nina Adora
+Photography Enthusiast & Web Developer
 
 
 # Pixio

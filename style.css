@@ -61,13 +61,16 @@ padding: 10%;
 
 }
 
-.form{
-    background-color: rgb(214, 159, 92);
-    padding:40px %;
+form{
+    background-color: bisque;
+    padding: 50px;
+}
+    
 }
 .photography{
     text-align: center;
     font-size: x-large;
+    
     background-color: bisque;
     padding: 10px;
 
