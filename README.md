@@ -24,8 +24,14 @@ This project is open-source and available under the MIT License.
 Nina Adora
 Photography Enthusiast & Web Developer
 
+<<<<<<< HEAD
 ## Link to Pixio.
 [Visit Pixio Live Website](https://github.com/nirinakaes-dot/Pixio)
 
 
 # Pixio
+=======
+## Link Pixio
+[Visit Pixio Live Website](https://github.com/nirinakaes-dot/Pixio)
+# Pixio
+>>>>>>> eaaab16eb80f0a122c499f5514e3f2f1b1e0511e
