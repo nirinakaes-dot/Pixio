@@ -25,7 +25,7 @@ Nina Adora
 Photography Enthusiast & Web Developer
 
 ## Link to Pixio.
-[Visit Pixio Live Website](http://127.0.0.1:5501/index.html)
+[Visit Pixio Live Website](https://nirinakaes-dot.github.io/Pixio/)
 
 
 # Pixio
